@@ -1,3 +1,3 @@
 # Authentication
 ## sign in
-![](images/Screenshot (96).png)
+![myimage-alt-tag](images/Screenshot (96).png)
